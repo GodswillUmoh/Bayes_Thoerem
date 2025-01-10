@@ -11,9 +11,11 @@ _Naive Bayes is a simple yet effective probabilistic classification algorithm ba
 + Multinomial Naive Bayes: Suitable for discrete data, especially for text classification where the features are word frequencies or occurrences.
 + Bernoulli Naive Bayes: Assumes binary data (e.g., presence or absence of a word).
 
-## Formula of Bayes
+## Formula of Bayes Thoerem
 $P(A∣B)= 
 P(B)
 P(B∣A)⋅P(A)
 ​
 $
+
+[Click to view Thoerem Formula]()
