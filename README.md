@@ -18,4 +18,4 @@ P(B∣A)⋅P(A)
 ​
 $
 
-[Click to view Thoerem Formula]()
+[Click to view Thoerem Formula](https://www.bing.com/images/search?q=Naive+Bayes+Full+Formula&FORM=IRTRRL)
