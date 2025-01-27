@@ -19,3 +19,11 @@ P(B∣A)⋅P(A)
 $
 
 [Click to view Thoerem Formula](https://ibb.co/fXBB53F)
+
+## Explanation
+Assuming we have two machines producing spanners and to find out the probability of Machine 1 or 2 producing a bad spanner. We have the formula:
+--- 
+
+$P(Machine 1| defect) = P(defect | Machine 1) * P(Machine 1) / P(defect)$
+
++ The P(Machine 1) is given the condition (defect)
