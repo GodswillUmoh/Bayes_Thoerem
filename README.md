@@ -30,3 +30,18 @@ Assuming we have two machines producing spanners and to find out the probability
 $P(Machine 1| defect) = P(defect | Machine 1) * P(Machine 1) / P(defect)$
 
 + The P(Machine 1) is given the condition (defect)
+
+## Questions
+_Represent the following following in bayes thoerem_
+
+1. + Out of all defective parts: we can see that 50% came from machine 1 and 50% came from machine 2
+
+### Answer: 
+> Tips: The one looked for come first, if already got, it comes first like 50% is already got
+
+_p(Machine 1 | Defect) = 50%_
+
+2. + What is the probability that a part produced by machine 2 is defective?
+
+### Answer
+_p(Defect | Machine 2) = ?_ 
