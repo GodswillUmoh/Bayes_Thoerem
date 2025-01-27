@@ -45,3 +45,6 @@ _P(Machine 1 | Defect) = 50%_
 
 ### Answer
 _P(Defect | Machine 2) = ?_ 
+
+### Write the base Theorem formula for _P(Defect | Machine 2)_
+$P(Defect | Machine 2) = P(Machine 2 | Defect) * P(Defect) / p(Machine 2) $
