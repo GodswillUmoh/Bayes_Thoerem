@@ -94,5 +94,5 @@ $P(Defect | Machine 2) = P(Machine 2 | Defect) * P(Defect) / p(Machine 2) $
 
 ## Can we get rid of P(X)?
 ### Answer
-> Yes, we can. It is observed that the P(X) is same for the two calculations. When the two formula is compared, you can strike out the P(X) and compare with the upper side of both formula.
-> + [See the diagram for more](https://ibb.co/VnR9G3z)
+> Yes, we can. It is observed that the P(X) is same for the two calculations. When the two formula is compared, you can strike out the P(X) and compare with the upper side of both formula. This is not advisable if the comparison is done across other scenario where the P(X) is different, one need be careful. Hence, it issafer to just calculate the entire with P(X).
+> + [See the diagram for more](https://ibb.co/7JcrzBbQ)
