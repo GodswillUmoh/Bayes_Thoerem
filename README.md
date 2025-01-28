@@ -58,3 +58,8 @@ $P(Defect | Machine 2) = P(Machine 2 | Defect) * P(Defect) / p(Machine 2) $
 > + [For Walks: click to view the formula](https://ibb.co/phnhyYJ)
 > + [For drives: click to view the formula](https://ibb.co/8D8zrsj)
 > + [Comparing the Two P(w) Vs P(d), click to view](https://ibb.co/CvmtLGZ)
+
+## Calculations
+### Step 1
+> + To calculate the P(Walks)
+> + [Click to view calculation for P(Walks)](https://ibb.co/c2jhWb2)
