@@ -79,3 +79,8 @@ $P(Defect | Machine 2) = P(Machine 2 | Defect) * P(Defect) / p(Machine 2) $
 > + Class Activities:
 > + Calculate for P(Drives|X)
 > + [Compare result to the answer here, click to view](https://ibb.co/55y1956)
+
+---
+### Step 3: Compare the two probability
+> + [Click here to see that bof walks is greater than that of drive](https://ibb.co/RQ86Wn0)
+> + Hence, the new observation will be predicted as walks to work
