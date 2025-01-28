@@ -52,8 +52,9 @@ $P(Defect | Machine 2) = P(Machine 2 | Defect) * P(Defect) / p(Machine 2) $
 
 ## Case 1
 > Assuming you have two features of Salary and Age, to predict if one drives to work or walks to work.
-> [See the case Diagram](https://ibb.co/L1YcKQN)
-> Using the Naive Bayes, the formula will look like this
+> + [See the case Diagram](https://ibb.co/L1YcKQN)
+> + To solve this we need __A PLAN ATTACK__: 
+> Using the Naive Bayes, the steps are in the diagram:
 > + [For Walks: click to view the formula](https://ibb.co/phnhyYJ)
 > + [For drives: click to view the formula](https://ibb.co/8D8zrsj)
 > + [Comparing the Two P(w) Vs P(d), click to view](https://ibb.co/CvmtLGZ)
