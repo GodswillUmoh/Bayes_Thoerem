@@ -69,3 +69,5 @@ $P(Defect | Machine 2) = P(Machine 2 | Defect) * P(Defect) / p(Machine 2) $
 > + [Click here to view P(X)](https://ibb.co/jMGVWDk)
 > + To calculate Probability of Likelihood of P(X|Walks)
 > + [Click here to view how to get P(X|Walks)](https://ibb.co/0fPmmxn)
+> + Result of the Calculations:
+> + [Click to view the result for the computation](https://ibb.co/zbgRG3c)
