@@ -66,4 +66,4 @@ $P(Defect | Machine 2) = P(Machine 2 | Defect) * P(Defect) / p(Machine 2) $
 > + To calculate the P(Walks)
 > + [Click to view calculation for P(Walks)](https://ibb.co/c2jhWb2)
 > + To calculate Marginal Likelihood:
-> + [Click here to view](https://ibb.co/jMGVWDk)
+> + [Click here to view P(X)](https://ibb.co/jMGVWDk)
