@@ -85,7 +85,14 @@ $P(Defect | Machine 2) = P(Machine 2 | Defect) * P(Defect) / p(Machine 2) $
 > + [Click here to see that bof walks is greater than that of drive](https://ibb.co/RQ86Wn0)
 > + Hence, the new observation will be predicted as walks to work
 
+---
+
 ## Why is the algorithm called the Naive Bayes theorem?
 ### Answer
 > They rely on independence assumptions which often time not correct and bayes thoerem is the foundation of the Naive base thoerem.
 > like the case we used, it assumes that salary and age has to be independent, and this probably not the case because there could be some sort of correlation between age and salary for example we may have correlation that as peoples age increases in the organization, salary is likely to increase. Hence, Naive bayes disregard the correlation and regard them as independent, hence Naive assumption
+
+## Can we get rid of P(X)?
+### Answer
+> Yes, we can. It is observed that the P(X) is same for the two calculations. When the two formula is compared, you can strike out the P(X) and compare with the upper side of both formula.
+> + [See the diagram for more](https://ibb.co/VnR9G3z)
